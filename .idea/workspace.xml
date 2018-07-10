@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dbe6e4d-addd-4126-ba53-3fbcddf20247" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/error.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/functional.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/functional.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/step_definitions/functional_steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/functional_steps.rb" afterDir="false" />
     </list>
@@ -14,48 +15,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__2_.rcov" NAME="Scenario: As a user, I want to add numbers together (2) Coverage Results" MODIFIED="1531236562849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__5_.rcov" NAME="Scenario: As a user, I want to add numbers together (5) Coverage Results" MODIFIED="1531235940225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_divide_two_numbers__1_.rcov" NAME="Scenario: As a user, I want to divide two numbers (1) Coverage Results" MODIFIED="1531243419614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__2_.rcov" NAME="Scenario: As a user, I want to add numbers together (2) Coverage Results" MODIFIED="1531243274946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__5_.rcov" NAME="Scenario: As a user, I want to add numbers together (5) Coverage Results" MODIFIED="1531243314442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@functional_feature.rcov" NAME="functional.feature Coverage Results" MODIFIED="1531237328110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__4_.rcov" NAME="Scenario: As a user, I want to add numbers together (4) Coverage Results" MODIFIED="1531238576647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together.rcov" NAME="Scenario: As a user, I want to add numbers together Coverage Results" MODIFIED="1531238187724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__3_.rcov" NAME="Scenario: As a user, I want to add numbers together (3) Coverage Results" MODIFIED="1531238330980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__1_.rcov" NAME="Scenario: As a user, I want to add numbers together (1) Coverage Results" MODIFIED="1531238684932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__4_.rcov" NAME="Scenario: As a user, I want to add numbers together (4) Coverage Results" MODIFIED="1531243184739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_put_one_number_to_the_power_of_itself.rcov" NAME="Scenario: As a user, I want to put one number to the power of itself Coverage Results" MODIFIED="1531243707905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together.rcov" NAME="Scenario: As a user, I want to add numbers together Coverage Results" MODIFIED="1531242668040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__3_.rcov" NAME="Scenario: As a user, I want to add numbers together (3) Coverage Results" MODIFIED="1531242804267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_divide_two_numbers.rcov" NAME="Scenario: As a user, I want to divide two numbers Coverage Results" MODIFIED="1531243401175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__1_.rcov" NAME="Scenario: As a user, I want to add numbers together (1) Coverage Results" MODIFIED="1531243236009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functional.feature" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functional.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/functional.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="323">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculator.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/calculator.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functional_steps.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functional_steps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+            <state relative-caret-position="272">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -74,8 +60,8 @@
         <option value="$PROJECT_DIR$/lib/calculator.rb" />
         <option value="$PROJECT_DIR$/calulator-api-test.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/features/functional.feature" />
         <option value="$PROJECT_DIR$/features/step_definitions/functional_steps.rb" />
+        <option value="$PROJECT_DIR$/features/functional.feature" />
       </list>
     </option>
   </component>
@@ -154,8 +140,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber.Scenario: As a user, I want to add numbers together (1)">
-    <configuration name="Scenario: As a user, I want to add numbers together (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Scenario: As a user, I want to put one number to the power of itself">
+    <configuration name="Scenario: As a user, I want to add numbers together (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="calulator-api-test" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -186,7 +172,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
-    <configuration name="Scenario: As a user, I want to add numbers together (3)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: As a user, I want to add numbers together (5)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="calulator-api-test" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -217,7 +203,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
-    <configuration name="Scenario: As a user, I want to add numbers together (4)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: As a user, I want to divide two numbers (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="calulator-api-test" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -236,7 +222,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/functional.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to add numbers together$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to divide two numbers$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -248,7 +234,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
-    <configuration name="Scenario: As a user, I want to add numbers together" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: As a user, I want to divide two numbers" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="calulator-api-test" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -267,7 +253,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/functional.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to add numbers together$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to divide two numbers$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -279,7 +265,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
-    <configuration name="functional.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: As a user, I want to put one number to the power of itself" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="calulator-api-test" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -298,7 +284,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/functional.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to put one number to the power of itself$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -311,19 +297,19 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
     <list>
-      <item itemvalue="Cucumber.functional.feature" />
-      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together" />
-      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (3)" />
-      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (4)" />
-      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (1)" />
+      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (2)" />
+      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (5)" />
+      <item itemvalue="Cucumber.Scenario: As a user, I want to divide two numbers" />
+      <item itemvalue="Cucumber.Scenario: As a user, I want to divide two numbers (1)" />
+      <item itemvalue="Cucumber.Scenario: As a user, I want to put one number to the power of itself" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (1)" />
-        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (4)" />
-        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (3)" />
-        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together" />
-        <item itemvalue="Cucumber.functional.feature" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to put one number to the power of itself" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to divide two numbers (1)" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to divide two numbers" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (5)" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -351,44 +337,45 @@
       <workItem from="1531224229081" duration="601000" />
       <workItem from="1531225758908" duration="1500000" />
       <workItem from="1531236404834" duration="206000" />
-      <workItem from="1531236921439" duration="1513000" />
+      <workItem from="1531236921439" duration="2329000" />
+      <workItem from="1531242062858" duration="1790000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(2) - 2018.07.10 at 18h 12m 05s.xml">
-      <configuration name="Scenario: As a user, I want to add numbers together (2)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(3) - 2018.07.10 at 18h 12m 54s.xml">
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(3) - 2018.07.10 at 22h 44m 51s.xml">
       <configuration name="Scenario: As a user, I want to add numbers together (3)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together - 2018.07.10 at 20h 45m 48s.xml">
-      <configuration name="Scenario: As a user, I want to add numbers together" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(4) - 2018.07.10 at 20h 47m 06s.xml">
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(4) - 2018.07.10 at 22h 48m 27s.xml">
       <configuration name="Scenario: As a user, I want to add numbers together (4)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(5) - 2018.07.10 at 20h 49m 03s.xml">
-      <configuration name="Scenario: As a user, I want to add numbers together (5)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(4) - 2018.07.10 at 22h 49m 29s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together (4)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(1) - 2018.07.10 at 20h 49m 30s.xml">
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(4) - 2018.07.10 at 22h 49m 57s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together (4)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(1) - 2018.07.10 at 22h 50m 38s.xml">
       <configuration name="Scenario: As a user, I want to add numbers together (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="functional_feature - 2018.07.10 at 21h 11m 33s.xml">
-      <configuration name="functional.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(2) - 2018.07.10 at 22h 51m 24s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together (2)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="functional_feature - 2018.07.10 at 21h 12m 11s.xml">
-      <configuration name="functional.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(5) - 2018.07.10 at 22h 52m 04s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together (5)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together - 2018.07.10 at 21h 28m 22s.xml">
-      <configuration name="Scenario: As a user, I want to add numbers together" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__As_a_user,_I_want_to_divide_two_numbers - 2018.07.10 at 22h 53m 23s.xml">
+      <configuration name="Scenario: As a user, I want to divide two numbers" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(3) - 2018.07.10 at 21h 28m 55s.xml">
-      <configuration name="Scenario: As a user, I want to add numbers together (3)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__As_a_user,_I_want_to_divide_two_numbers_(1) - 2018.07.10 at 22h 53m 41s.xml">
+      <configuration name="Scenario: As a user, I want to divide two numbers (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_put_one_number_to_the_power_of_itself - 2018.07.10 at 22h 58m 29s.xml">
+      <configuration name="Scenario: As a user, I want to put one number to the power of itself" configurationId="CucumberRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13549000" />
+    <option name="totallyTimeSpent" value="16155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -439,17 +426,37 @@
           <line>9</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb</url>
-          <line>21</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>expect(@data).to be == output.to_f</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expect(@data).to be == output.to_s</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expect(@data).to be == output.to_d</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@operation.eql?('add')</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@operation.</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>expect(@data).to be == output.to_i</expression-string>
         <language-id>ruby</language-id>
@@ -470,34 +477,23 @@
         <language-id>ruby</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>!expect(@data).to eql(true)</expression-string>
-        <language-id>ruby</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>!expect(@data).to eql?</expression-string>
-        <language-id>ruby</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>!expect(@data)</expression-string>
-        <language-id>ruby</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>RestClient.get url</expression-string>
-        <language-id>ruby</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>@response</expression-string>
-        <language-id>ruby</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/features/functional.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/functional.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -722,17 +718,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/functional.feature">
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb">
+    <entry file="file://$PROJECT_DIR$/features/functional.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>
