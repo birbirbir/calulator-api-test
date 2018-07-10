@@ -3,8 +3,9 @@ Feature: Test caluculator API
   Scenario: As a user, I want to add numbers together
     Given I have entered "8" into the calculator
     Then I have entered "4" into the calculator
-    When I press add
-  When I send a GET request for "http://localhost:8080/math/add?a=7&b=w"
+    When I press "add"
+    Then the JSON response should have value '12'
+ # When I send a GET request for "http://localhost:8080/math/add?a=7&b=w"
 
 
    # Then the request is successful
