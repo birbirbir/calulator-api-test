@@ -10,7 +10,7 @@ Feature: Test caluculator operations
       | firstValue | secondValue | output |
       | 2          | 5           | 7      |
       | 2          | 5           | 0.4    |
-      | 2          | 5           | -3     |
+      | 2          | 5           | 7      |
 
   Scenario Outline: As a user, I want to subtract numbers together
     Given I have entered "<firstValue>" into the calculator
