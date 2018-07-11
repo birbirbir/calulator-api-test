@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Dilshan Fernando"]
   spec.email         = ["dilshan.fdo@gmail.com"]
 
-  spec.summary       = %q{API validator with Cucumber}
+  spec.summary       = %q{Simple Calculator API validator with Cucumber}
   spec.description   = %q{calculator-api-test allows API JSON response validation and verification in BDD style.}
   spec.homepage      = "https://github.com/dilshan5/calulator-api-test"
   spec.license       = "MIT"

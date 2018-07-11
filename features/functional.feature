@@ -1,6 +1,6 @@
 Feature: Test caluculator operations
 
-  @functional
+  @functions
   Scenario Outline: As a user, I want to add numbers together
     Given I have entered "<firstValue>" into the calculator
     And I have entered "<secondValue>" into the calculator
@@ -13,6 +13,7 @@ Feature: Test caluculator operations
       | 3          | 5           | 8    |
       | 2          | 10           | 12      |
 
+  @functions
   Scenario Outline: As a user, I want to subtract numbers together
     Given I have entered "<firstValue>" into the calculator
     And I have entered "<secondValue>" into the calculator
@@ -25,7 +26,7 @@ Feature: Test caluculator operations
       | 2          | 5           | 0.4    |
       | 2          | 5           | -3     |
 
-  @functional
+  @functions
   Scenario Outline: As a user, I want to multiply numbers together
     Given I have entered "<firstValue>" into the calculator
     And I have entered "<secondValue>" into the calculator
@@ -38,6 +39,7 @@ Feature: Test caluculator operations
       | 2          | 5           | 0.4    |
       | 2          | 5           | -3     |
 
+  @functions
   Scenario Outline: As a user, I want to divide numbers together
     Given I have entered "<firstValue>" into the calculator
     And I have entered "<secondValue>" into the calculator
@@ -50,6 +52,7 @@ Feature: Test caluculator operations
       | 2          | 5           | 0.4    |
       | 2          | 5           | -3     |
 
+  @functions
   Scenario Outline: As a user, I want to put one number to the power of itself
     Given I have entered "<firstValue>" into the calculator
     When I press "sqrt"
