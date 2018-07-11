@@ -1,5 +1,6 @@
 Feature: Test caluculator operations
 
+  @functional
   Scenario Outline: As a user, I want to add numbers together
     Given I have entered "<firstValue>" into the calculator
     And I have entered "<secondValue>" into the calculator
@@ -9,8 +10,8 @@ Feature: Test caluculator operations
     Examples:
       | firstValue | secondValue | output |
       | 2          | 5           | 7      |
-      | 2          | 5           | 0.4    |
-      | 2          | 5           | 7      |
+      | 3          | 5           | 8    |
+      | 2          | 10           | 12      |
 
   Scenario Outline: As a user, I want to subtract numbers together
     Given I have entered "<firstValue>" into the calculator
@@ -24,6 +25,7 @@ Feature: Test caluculator operations
       | 2          | 5           | 0.4    |
       | 2          | 5           | -3     |
 
+  @functional
   Scenario Outline: As a user, I want to multiply numbers together
     Given I have entered "<firstValue>" into the calculator
     And I have entered "<secondValue>" into the calculator

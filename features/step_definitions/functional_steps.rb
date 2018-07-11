@@ -38,9 +38,9 @@ end
 Then(/^the JSON response should have value "(.*?)"$/) do |output|
   @data = JSON.parse(@response)
   if (@operation.eql?('add') || @operation.eql?('minus') || @operation.eql?('multiply'))
-    expect(@data).to be == output.to_i
+    raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_i
   elsif (@operation.eql?('divide') || @operation.eql?('sqrt'))
-    expect(@data).to be == output.to_f
+    raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_f
   end
 end
 

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dbe6e4d-addd-4126-ba53-3fbcddf20247" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/features/headers.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/step_definitions/header_steps.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/calulator-api-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/calulator-api-test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calulator-api-test.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/calulator-api-test.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/functional.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/functional.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/step_definitions/functional_steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/functional_steps.rb" afterDir="false" />
     </list>
@@ -20,16 +21,17 @@
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__5_.rcov" NAME="Scenario: As a user, I want to add numbers together (5) Coverage Results" MODIFIED="1531243314442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_handle_error_response_for_ADD_operator__4_.rcov" NAME="Scenario: As a user, I want to handle error response for ADD operator (4) Coverage Results" MODIFIED="1531280441977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_handle_error_response_for_ADD_operator__2_.rcov" NAME="Scenario: As a user, I want to handle error response for ADD operator (2) Coverage Results" MODIFIED="1531284976664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_subtract_numbers_together.rcov" NAME="Scenario: As a user, I want to subtract numbers together Coverage Results" MODIFIED="1531289437969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__3_.rcov" NAME="Scenario: As a user, I want to add numbers together (3) Coverage Results" MODIFIED="1531242804267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_subtract_numbers_together.rcov" NAME="Scenario: As a user, I want to subtract numbers together Coverage Results" MODIFIED="1531291243010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__3_.rcov" NAME="Scenario: As a user, I want to add numbers together (3) Coverage Results" MODIFIED="1531296054345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__Can_check_for_multiple_headers.rcov" NAME="Scenario: Can check for multiple headers Coverage Results" MODIFIED="1531288494985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_handle_error_response_for_ADD_operator.rcov" NAME="Scenario: As a user, I want to handle error response for ADD operator Coverage Results" MODIFIED="1531290271600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@functional_feature.rcov" NAME="functional.feature Coverage Results" MODIFIED="1531237328110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__Can_check_for_multiple_headers__3_.rcov" NAME="Scenario: Can check for multiple headers (3) Coverage Results" MODIFIED="1531288988512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_put_one_number_to_the_power_of_itself.rcov" NAME="Scenario: As a user, I want to put one number to the power of itself Coverage Results" MODIFIED="1531243707905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__Can_check_for_multiple_headers__1_.rcov" NAME="Scenario: Can check for multiple headers (1) Coverage Results" MODIFIED="1531288916366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_handle_error_response_for_sqrt_operator.rcov" NAME="Scenario: As a user, I want to handle error response for sqrt operator Coverage Results" MODIFIED="1531295798802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_operate_numbers_together__2_.rcov" NAME="Scenario: As a user, I want to operate numbers together (2) Coverage Results" MODIFIED="1531247817086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__1_.rcov" NAME="Scenario: As a user, I want to add numbers together (1) Coverage Results" MODIFIED="1531289886799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__1_.rcov" NAME="Scenario: As a user, I want to add numbers together (1) Coverage Results" MODIFIED="1531295995896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_handle_error_response_for_ADD_operator__3_.rcov" NAME="Scenario: As a user, I want to handle error response for ADD operator (3) Coverage Results" MODIFIED="1531280083633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__4_.rcov" NAME="Scenario: As a user, I want to add numbers together (4) Coverage Results" MODIFIED="1531243184739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_check_for_multiple_headers.rcov" NAME="Scenario: As a user, I want to check for multiple headers Coverage Results" MODIFIED="1531290354632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
@@ -39,27 +41,28 @@
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_operate_numbers_together.rcov" NAME="Scenario: As a user, I want to operate numbers together Coverage Results" MODIFIED="1531248727571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_handle_error_response_for_ADD_operator__1_.rcov" NAME="Scenario: As a user, I want to handle error response for ADD operator (1) Coverage Results" MODIFIED="1531281802410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_handle_error_response_for_Minus_operator.rcov" NAME="Scenario: As a user, I want to handle error response for Minus operator Coverage Results" MODIFIED="1531290292953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__2_.rcov" NAME="Scenario: As a user, I want to add numbers together (2) Coverage Results" MODIFIED="1531243274946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__Can_check_for_multiple_headers__2_.rcov" NAME="Scenario: Can check for multiple headers (2) Coverage Results" MODIFIED="1531288970126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
-    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together.rcov" NAME="Scenario: As a user, I want to add numbers together Coverage Results" MODIFIED="1531289595328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together__2_.rcov" NAME="Scenario: As a user, I want to add numbers together (2) Coverage Results" MODIFIED="1531296019015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_subtract_numbers_together__1_.rcov" NAME="Scenario: As a user, I want to subtract numbers together (1) Coverage Results" MODIFIED="1531292586704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
+    <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_add_numbers_together.rcov" NAME="Scenario: As a user, I want to add numbers together Coverage Results" MODIFIED="1531295879599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
     <SUITE FILE_PATH="coverage/calulator_api_test@Scenario__As_a_user__I_want_to_operate_numbers_together__1_.rcov" NAME="Scenario: As a user, I want to operate numbers together (1) Coverage Results" MODIFIED="1531247806651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calulator-api-test" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functional.feature" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functional.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/functional.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="85">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header_steps.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/step_definitions/header_steps.rb">
+      <file leaf-file-name="functional_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="158">
+              <caret line="42" column="76" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -67,35 +70,17 @@
       <file leaf-file-name="error.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/error.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="283">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functional_steps.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb">
+      <file leaf-file-name="error_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/error_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculator.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/calculator.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="headers.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/headers.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="72" lean-forward="true" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -111,15 +96,15 @@
         <option value="$PROJECT_DIR$/features/calculator.feature" />
         <option value="$PROJECT_DIR$/features/step_definitions/calculator_steps.rb" />
         <option value="$PROJECT_DIR$/lib/step_definitions/functional_steps.rb" />
-        <option value="$PROJECT_DIR$/calulator-api-test.gemspec" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/calculator.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/error_steps.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/header_steps.rb" />
+        <option value="$PROJECT_DIR$/features/headers.feature" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/calulator-api-test.gemspec" />
+        <option value="$PROJECT_DIR$/features/error.feature" />
         <option value="$PROJECT_DIR$/features/functional.feature" />
         <option value="$PROJECT_DIR$/features/step_definitions/functional_steps.rb" />
-        <option value="$PROJECT_DIR$/features/error.feature" />
-        <option value="$PROJECT_DIR$/features/headers.feature" />
       </list>
     </option>
   </component>
@@ -198,8 +183,70 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber.Scenario: As a user, I want to check for multiple headers">
+  <component name="RunManager" selected="Cucumber.Scenario: As a user, I want to add numbers together (3)">
     <configuration name="Scenario: As a user, I want to add numbers together (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="calulator-api-test" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/functional.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to add numbers together$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration name="Scenario: As a user, I want to add numbers together (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="calulator-api-test" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/functional.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to add numbers together$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration name="Scenario: As a user, I want to add numbers together (3)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="calulator-api-test" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -261,38 +308,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
-    <configuration name="Scenario: As a user, I want to check for multiple headers" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="calulator-api-test" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/headers.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to check for multiple headers$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-    </configuration>
-    <configuration name="Scenario: As a user, I want to handle error response for ADD operator" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration name="Scenario: As a user, I want to handle error response for sqrt operator" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="calulator-api-test" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -311,38 +327,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/error.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to handle error response for ADD operator$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-    </configuration>
-    <configuration name="Scenario: As a user, I want to handle error response for Minus operator" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="calulator-api-test" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/error.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to handle error response for Minus operator$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^As a user\, I want to handle error response for sqrt operator$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -355,19 +340,19 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
     <list>
+      <item itemvalue="Cucumber.Scenario: As a user, I want to handle error response for sqrt operator" />
       <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together" />
       <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (1)" />
-      <item itemvalue="Cucumber.Scenario: As a user, I want to handle error response for ADD operator" />
-      <item itemvalue="Cucumber.Scenario: As a user, I want to handle error response for Minus operator" />
-      <item itemvalue="Cucumber.Scenario: As a user, I want to check for multiple headers" />
+      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (2)" />
+      <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber.Scenario: As a user, I want to check for multiple headers" />
-        <item itemvalue="Cucumber.Scenario: As a user, I want to handle error response for Minus operator" />
-        <item itemvalue="Cucumber.Scenario: As a user, I want to handle error response for ADD operator" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (3)" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (2)" />
         <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together (1)" />
         <item itemvalue="Cucumber.Scenario: As a user, I want to add numbers together" />
+        <item itemvalue="Cucumber.Scenario: As a user, I want to handle error response for sqrt operator" />
       </list>
     </recent_temporary>
   </component>
@@ -404,32 +389,11 @@
       <workItem from="1531281133702" duration="281000" />
       <workItem from="1531281786737" duration="3606000" />
       <workItem from="1531285720892" duration="243000" />
-      <workItem from="1531286409956" duration="3593000" />
+      <workItem from="1531286409956" duration="8662000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Can_check_for_multiple_headers_(1) - 2018.07.11 at 11h 32m 39s.xml">
-      <configuration name="Scenario: Can check for multiple headers (1)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Can_check_for_multiple_headers_(2) - 2018.07.11 at 11h 32m 52s.xml">
-      <configuration name="Scenario: Can check for multiple headers (2)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Can_check_for_multiple_headers_(4) - 2018.07.11 at 11h 37m 51s.xml">
-      <configuration name="Scenario: Can check for multiple headers (4)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Can_check_for_multiple_headers_(3) - 2018.07.11 at 11h 38m 09s.xml">
-      <configuration name="Scenario: Can check for multiple headers (3)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_subtract_numbers_together - 2018.07.11 at 11h 40m 40s.xml">
-      <configuration name="Scenario: As a user, I want to subtract numbers together" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together - 2018.07.11 at 11h 43m 17s.xml">
-      <configuration name="Scenario: As a user, I want to add numbers together" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(1) - 2018.07.11 at 11h 48m 57s.xml">
-      <configuration name="Scenario: As a user, I want to add numbers together (1)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__As_a_user,_I_want_to_handle_error_response_for_ADD_operator - 2018.07.11 at 11h 54m 33s.xml">
       <configuration name="Scenario: As a user, I want to handle error response for ADD operator" configurationId="CucumberRunConfigurationType" />
     </history-entry>
@@ -439,9 +403,30 @@
     <history-entry file="Scenario__As_a_user,_I_want_to_check_for_multiple_headers - 2018.07.11 at 11h 55m 56s.xml">
       <configuration name="Scenario: As a user, I want to check for multiple headers" configurationId="CucumberRunConfigurationType" />
     </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_subtract_numbers_together - 2018.07.11 at 12h 10m 45s.xml">
+      <configuration name="Scenario: As a user, I want to subtract numbers together" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_subtract_numbers_together_(1) - 2018.07.11 at 12h 33m 08s.xml">
+      <configuration name="Scenario: As a user, I want to subtract numbers together (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_handle_error_response_for_sqrt_operator - 2018.07.11 at 13h 26m 40s.xml">
+      <configuration name="Scenario: As a user, I want to handle error response for sqrt operator" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together - 2018.07.11 at 13h 28m 50s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(1) - 2018.07.11 at 13h 29m 57s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(2) - 2018.07.11 at 13h 30m 20s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together (2)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__As_a_user,_I_want_to_add_numbers_together_(3) - 2018.07.11 at 13h 30m 56s.xml">
+      <configuration name="Scenario: As a user, I want to add numbers together (3)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27200000" />
+    <option name="totallyTimeSpent" value="32269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -525,15 +510,25 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="ruby-line">
           <url>file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb</url>
-          <line>34</line>
-          <option name="timeStamp" value="35" />
+          <line>40</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="38" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>@data == output.to_i</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@data</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>output.to_i</expression-string>
         <language-id>ruby</language-id>
@@ -566,16 +561,6 @@
       </expression>
       <expression>
         <expression-string>expect(@headers.keys).to include(header.to_sym)</expression-string>
-        <language-id>ruby</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>args</expression-string>
-        <language-id>ruby</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>@headers.keys</expression-string>
         <language-id>ruby</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -799,20 +784,6 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/calculator_steps.rb" />
     <entry file="file://$PROJECT_DIR$/features/step_definitions/calculator_steps.rb" />
     <entry file="file://$PROJECT_DIR$/lib/step_definitions/functional_steps.rb" />
-    <entry file="file://$PROJECT_DIR$/calulator-api-test.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cucumber-3.1.1/lib/cucumber/glue/invoke_in_world.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -827,31 +798,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/calculator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/error_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="73" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cucumber-core-3.1.0/lib/cucumber/core/test/action.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/error.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -862,24 +812,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/functional.feature">
+    <entry file="file://$PROJECT_DIR$/lib/calculator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="31" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/headers.feature">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calulator-api-test.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="72" lean-forward="true" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/error.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/error_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="110" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/functional_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="158">
+          <caret line="42" column="76" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/functional.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
