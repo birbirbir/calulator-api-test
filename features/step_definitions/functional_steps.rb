@@ -15,10 +15,8 @@ When(/^I press "(.*?)"$/) do |operation|
   else
     url = "http://localhost:8080/math/#{operation}?a=#{firstVariable}&b=#{secondVariable}"
   end
-   begin
-     @response = RestClient.get url
-   rescue Exception
-   end
+  # Don't raise exceptions but return the response
+  @response = RestClient.get(url){|response, request, result| response }
 end
 
 Then(/^the JSON response should have value "(.*?)"$/) do |output|
