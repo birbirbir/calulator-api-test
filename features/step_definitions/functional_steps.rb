@@ -8,7 +8,8 @@ Given(/^I have entered "(.*?)" into the calculator$/) do |number|
   @calculator.push(number)
 end
 
-When /^I send a (GET|PUT|POST|DELETE) request (?:for|to) "([^"]*)"$/ do |*args|
+When /^I send a (GET|DELETE) request (?:for|to) "([^"]*)"$/ do |*args|
+  @logger = Logger.new STDOUT
   request_type = args.shift.downcase
   url = args.shift
 
@@ -16,10 +17,6 @@ When /^I send a (GET|PUT|POST|DELETE) request (?:for|to) "([^"]*)"$/ do |*args|
     @response = RestClient.get(url){|response, request, result| response }
   elsif (request_type == 'delete')
     @response = RestClient.delete(url){|response, request, result| response }
-  elsif (request_type == 'post')
-    @response = RestClient.post(url){|response, request, result| response }
-  elsif (request_type == 'put')
-    @response = RestClient.put(url){|response, request, result| response }
   end
   @logger.info ">> Request URL: #{url}"
 end
@@ -41,10 +38,15 @@ end
 
 Then(/^the JSON response should have value "(.*?)"$/) do |output|
   @data = JSON.parse(@response)
+  @logger.info "Returned JSON value is : #{@data}"
   if (@operation.eql?('add') || @operation.eql?('minus') || @operation.eql?('multiply'))
     raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_i
   elsif (@operation.eql?('divide') || @operation.eql?('sqrt'))
-    raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_f
+    if @data.eql?("NaN")
+      raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_s
+    else
+      raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_f
+    end
   end
   @logger.info "Successfully Verified response value"
   @logger.info "==========================Test Case Execution End=========================="
