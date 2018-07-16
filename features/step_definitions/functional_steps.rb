@@ -1,6 +1,8 @@
 require_relative '../../lib/calculator'
 require 'rest-client'
 require 'logger'
+require 'bigdecimal'
+require 'bigdecimal/util'
 
 Given(/^I have entered "(.*?)" into the calculator$/) do |number|
   @logger = Logger.new STDOUT
@@ -45,7 +47,7 @@ Then(/^the JSON response should have value "(.*?)"$/) do |output|
     if @data.eql?("NaN")
       raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_s
     else
-      raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_f
+      raise %/Expect Result is : #{output} but was return #{@data}/ if @data != output.to_d
     end
   end
   @logger.info "Successfully Verified response value"

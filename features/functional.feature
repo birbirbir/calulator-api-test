@@ -66,17 +66,18 @@ Feature: Test caluculator operations
     Then the request is successful
     Then the JSON response should have value "<output>"
     Examples:
-      | firstValue | secondValue | output             |
-      | 50         | 20          | 2.5                |
-      | 0          | 20          | 0                  |
-      | -15        | 20          | -0.75              |
-      | -3.123     | 5           | -0.6246            |
-      | -5         | 3.123       | -1.601024655779699 |
-      | 4.21       | 3           | 1.403333333333333  |
-      | 10         | 3.123       | 3.202049311559398  |
-      | 0.234      | 3.123       | 0.0749279538904899 |
-      | 15         | 0           | error              |
-      | 1.23456789 | 2.10987654  | 0.5851375028796709 |
+      | firstValue | secondValue | output                             |
+      | 50         | 20          | 2.5                                |
+      | 0          | 20          | 0                                  |
+      | -15        | 20          | -0.75                              |
+      | -3.123     | 5           | -0.6246                            |
+      | -5         | 3.123       | -1.6010246557796990073647134165866 |
+      | 4.21       | 3           | 1.4033333333333333333333333333333  |
+      | 10         | 3.123       | 3.2020493115593980147294268331732  |
+      | 0          | 0           | 0                                  |
+      | 0.234      | 3.123       | 0.07492795389048991354466858789625 |
+      | 15         | 0           | error                              |
+      | 1.23456789 | 2.10987654  | 0.58513750287967086453314467395329 |
 
   @functions
   Scenario Outline: As a user, I want to put one number onto itself
@@ -85,9 +86,9 @@ Feature: Test caluculator operations
     Then the request is successful
     Then the JSON response should have value "<output>"
     Examples:
-      | firstValue | output |
-      | 0          | 0      |
-      | -10        | NaN  |
-      | 50         | 7.0710678118654755   |
-      | 50.0       | 7.0710678118654755   |
+      | firstValue | output             |
+      | 0          | 0                  |
+      | -10        | NaN                |
+      | 50         | 7.0710678118654755 |
+      | 50.0       | 7.0710678118654755 |
 
