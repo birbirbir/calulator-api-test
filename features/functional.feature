@@ -1,4 +1,4 @@
-Feature: Test caluculator operations
+Feature: Verify mathematical operations
 
   @functions
   Scenario Outline: As a user, I want to add numbers together

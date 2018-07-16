@@ -1,4 +1,4 @@
-Feature:  Handling error responses
+Feature: Verify error responses
 
   @error
   Scenario Outline: As a user, I want to handle error response for ADD operator
@@ -24,7 +24,7 @@ Feature:  Handling error responses
       | 1          | y           | minus     | 400        | Bad Request |
       | 1          | 5.0         | minus     | 400        | Bad Request |
       | 1          |             | minus     | 400        | Bad Request |
-      | --1          |   3          | minus     | 400        | Bad Request |
+      | --1        | 3           | minus     | 400        | Bad Request |
       | 1          | 5           | invalid   | 404        | Not Found   |
 
   @error

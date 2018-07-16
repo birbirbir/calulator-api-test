@@ -1,4 +1,4 @@
-Feature: We can inspect the headers of the response
+Feature: Verify headers of the response
 
   @header
   Scenario Outline: As a user, I want to check for multiple headers
